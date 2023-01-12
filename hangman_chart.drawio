@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T23:14:55.255Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="GHNHzNiA0w-meRQp8aXx" version="20.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T23:17:41.990Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="eAkKc4wNi0gW7iBcZUIM" version="20.8.4" type="github">
   <diagram id="9PaQuQQo9Y3UkfievkwF" name="Page-1">
     <mxGraphModel dx="1060" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -79,6 +79,43 @@
               <mxPoint x="350" y="540" />
               <mxPoint x="350" y="390" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_64Pv4l_u-pfdPOFuTM-17" value="guess a letter" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="500" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l_64Pv4l_u-pfdPOFuTM-18" value="NO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_64Pv4l_u-pfdPOFuTM-19" value="YES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_64Pv4l_u-pfdPOFuTM-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l_64Pv4l_u-pfdPOFuTM-17" target="l_64Pv4l_u-pfdPOFuTM-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="590" as="sourcePoint" />
+            <mxPoint x="740" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_64Pv4l_u-pfdPOFuTM-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="l_64Pv4l_u-pfdPOFuTM-17" target="l_64Pv4l_u-pfdPOFuTM-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="590" as="sourcePoint" />
+            <mxPoint x="740" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_64Pv4l_u-pfdPOFuTM-22" value="" style="endArrow=classic;html=1;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="690" as="sourcePoint" />
+            <mxPoint x="640" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="690" />
+              <mxPoint x="560" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_64Pv4l_u-pfdPOFuTM-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="709.5" y="420" as="sourcePoint" />
+            <mxPoint x="709.5" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
